@@ -1,8 +1,6 @@
 package jp.ac.uryukyu.ie.e165736;
 
 
-import java.awt.geom.Arc2D;
-
 public class Main {
     public static void main(String[] args){
         try {
