@@ -10,7 +10,7 @@ public class Main {
         }
         catch (NullPointerException e){
             System.out.println("NullPointerException has occurred.");
-            e.printStackTrace();
+            e.printStackTrace()1;
 
         }
     }
