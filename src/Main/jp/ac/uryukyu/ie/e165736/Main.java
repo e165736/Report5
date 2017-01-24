@@ -8,7 +8,7 @@ public class Main {
             double value = Double.parseDouble(str);
             System.out.println(str.length());
         }
-        catch (NumberFormatException e){
+        catch (NullPointerException e){
             System.out.println("NullPointerException has occurred.");
             e.printStackTrace();
 
